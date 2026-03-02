@@ -1,0 +1,7 @@
+# 글 재료 및 중간 산출물
+documents/material.txt
+documents/info.md
+documents/plan.md
+
+# Editor swap files
+*.swp
